@@ -20,8 +20,10 @@ designed to assist traders in enhancing their trading experiece through doing se
 
 The dataset contains several features related to stock price history and news data, such as:
 
-- Stock: Open, Close, High, Low, Volume
-- News : Heading, Decription, Date
+- Stock.csv        : Open, Close, High, Low, Volume
+- Headlines.json   : Heading, Date
+- daily_scores.json : jsonDate, sentiment scores
+- Stock_fin: Combination of data from Stock.csv and Logits from Daily_scores.json
 
 ## Model Building and Evaluation
 The following algorithms were used to build models:
