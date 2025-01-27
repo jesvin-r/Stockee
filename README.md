@@ -13,7 +13,7 @@ designed to assist traders in enhancing their trading experiece through doing se
 - Transformers: For model loading and processing.
 - Torch: For training the dataset
 - Sklearn: For preprocessing
-- Keras: For Training the datset [LSTM, Dropout, Sequential, Dense, Activation]
+- Keras: For Training the dataset [LSTM, Dropout, Sequential, Dense, Activation]
 - Matplotlib: For visualization
 
 ## Dataset
